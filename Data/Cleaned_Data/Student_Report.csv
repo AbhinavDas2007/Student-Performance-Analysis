@@ -1,0 +1,21 @@
+Name,Gender,Age,Math,Computer_Science,Social_Studies,Science,English,Total,Average,Percentage,Performance,Attendance
+Navya,F,15,78,89,78,63,74,382,76.4,76.4,Mediocre,76
+Rohan,M,14,75,95,86,77,78,411,82.2,82.2,Good,98
+Aditi,F,14,89,97,93,87,95,461,92.2,92.2,Outstanding,89
+Myra,F,15,74,81,78,67,72,372,74.4,74.4,Mediocre,87
+Ishaan,M,16,92,94,95,85,84,450,90,90,Outstanding,78
+Aarav,M,14,79,88,87,82,93,429,85.8,85.8,Good,76
+Saanvi,F,15,68,79,77,52,91,367,73.4,73.4,Mediocre,88
+Anika,F,15,37,53,34,10,40,174,34.8,34.8,Fail,88
+Krishna,M,15,67,85,92,64,75,383,76.6,76.6,Mediocre,79
+Advika,F,16,37,76,87,45,67,312,62.4,62.4,Average,72
+Shaurya,M,14,80,95,91,80,82,428,85.6,85.6,Good,90
+Ananya,F,16,12,23,35,48,49,167,33.4,33.4,Fail,94
+Zara,F,16,70,82,78,67,86,383,76.6,76.6,Mediocre,89
+Kabir,M,14,77,94,89,80,79,419,83.8,83.8,Good,75
+Arjun,M,14,56,65,52,45,68,286,57.2,57.2,Below Average,92
+Aryan,M,15,89,80,78,90,72,409,81.8,81.8,Good,81
+Vihaan,M,15,63,76,85,76,89,389,77.8,77.8,Mediocre,89
+Reyansh,M,14,69,75,81,72,87,384,76.8,76.8,Mediocre,78
+Diya,F,16,94,91,87,89,95,456,91.2,91.2,Outstanding,97
+Isha,F,14,68,78,81,73,84,384,76.8,76.8,Mediocre,78
