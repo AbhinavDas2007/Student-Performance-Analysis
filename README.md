@@ -59,7 +59,7 @@ Created an interactive dashboard showing:
 ## Dashboard-Website
 Created a online website showcasing my dashboard using Zoho Mail account : 
 
- - ( https://dashboard-abhinavdas2007.wasmer.app/index.html )
+ - ( https://abhinavdas2007.github.io/Student-Performance-Analysis/ )
 
 ## Conclusion
 
